@@ -94,3 +94,14 @@ body {
 .container__desc {
     padding: 2em;
 }
+
+/* Update */
+
+.dispositivos {
+    text-align: center;
+}
+
+.dispositivos__list {
+    display: flex;
+    justify-content: center;
+}
