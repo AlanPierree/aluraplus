@@ -104,4 +104,34 @@ body {
 .dispositivos__list {
     display: flex;
     justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
+}
+
+.dispositivos_title {
+    font-size: 48px;
+    color: var(--branco-principal);
+}
+
+.lista__item {
+    font-size: 32px;
+    color: var(--branco-principal);
+}
+
+.rodape {
+    text-align: center;
+    margin: 5em 0;
+}
+
+.rodape_list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin-top: 1em;
+}
+
+.list_link a {
+    text-decoration: none;
+    color: var(--branco-principal);
+    margin-left: 1em;
 }
